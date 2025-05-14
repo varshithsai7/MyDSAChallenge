@@ -37,6 +37,17 @@ int main(){
             cout<<ns<<endl;
         }
         }
+
+        //moores voting algo 
+        int frq=0,ans=0;
+        for(int i=0;i<n;i++){
+            if (frq==0){
+                ans=v[i];
+            }
+            if (ans==v[i]) frq++;
+            else frq--;
+        }
+        cout<<ans<<" ";
     }
 
 
