@@ -1,0 +1,25 @@
+binary tree stores hierarchial data 
+it s a hierarchial data structure
+
+GENERIC TREE
+parent->children
+
+root node is the start node from its branches children generate and it gos on
+
+BINARYTREE
+
+only maximum 2 children are possible
+left and right
+or can be 0 or can be 1
+
+there are levels
+height=total levels/total depth/distance from start root to deepest point possible
+
+subtree is small part of the tree
+
+solve(root){
+    solve(leftsub)
+    solve(rightsub)
+    calculate solution
+}
+
