@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Buffered",
+            "request": "launch",
+            "mainClass": "Buffered",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Nested.Nonstatic.Test",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "anonymousInnerTest",
+            "request": "launch",
+            "mainClass": "Nested.Nonstatic.anonymousInnerTest",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "memeberinside",
+            "request": "launch",
+            "mainClass": "Nested.Nonstatic.memeberinside",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "Nested.statics.Test",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "Readerwriter",
+            "request": "launch",
+            "mainClass": "Readerwriter",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "sample1",
+            "request": "launch",
+            "mainClass": "abstracts.sample1",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "interdemo",
+            "request": "launch",
+            "mainClass": "interdemo",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "singleton.Test",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "Dead",
+            "request": "launch",
+            "mainClass": "sync.Dead",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "syncblock",
+            "request": "launch",
+            "mainClass": "sync.syncblock",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "threadsync",
+            "request": "launch",
+            "mainClass": "sync.threadsync",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "threadsync2",
+            "request": "launch",
+            "mainClass": "sync.threadsync2",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "threadinfo",
+            "request": "launch",
+            "mainClass": "threadinfo",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "Multithreads",
+            "request": "launch",
+            "mainClass": "threads.Multithreads",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "sleepinter",
+            "request": "launch",
+            "mainClass": "threads.sleepinter",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "threads.test",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "threadmethods",
+            "request": "launch",
+            "mainClass": "threads.threadmethods",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "twothread",
+            "request": "launch",
+            "mainClass": "threads.twothread",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "usingrunnable",
+            "request": "launch",
+            "mainClass": "threads.usingrunnable",
+            "projectName": "MyDSAChallenge_31f0b060"
+        }
+    ]
+}
