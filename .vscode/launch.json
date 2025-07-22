@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "read",
+            "request": "launch",
+            "mainClass": "Files.read",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "methos",
+            "request": "launch",
+            "mainClass": "Files.methos",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "printdir",
+            "request": "launch",
+            "mainClass": "Files.printdir",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "create",
+            "request": "launch",
+            "mainClass": "Files.create",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
