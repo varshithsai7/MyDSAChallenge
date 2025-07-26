@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arrayse",
+            "request": "launch",
+            "mainClass": "collections.Arrayse",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "compareto",
+            "request": "launch",
+            "mainClass": "collections.compareto",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "lists",
+            "request": "launch",
+            "mainClass": "collections.lists",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "demo3",
+            "request": "launch",
+            "mainClass": "process.demo3",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "demo2",
+            "request": "launch",
+            "mainClass": "process.demo2",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "process.demo",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "deserial",
+            "request": "launch",
+            "mainClass": "serialisingdeserialising.deserial",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "serial",
+            "request": "launch",
+            "mainClass": "serialisingdeserialising.serial",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "wrap",
+            "request": "launch",
+            "mainClass": "wrapper.wrap",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "obj.demo",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
             "name": "buffered",
             "request": "launch",
             "mainClass": "io_bytestreams.buffered",
