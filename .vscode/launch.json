@@ -1,7 +1,55 @@
 {
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "two",
+            "request": "launch",
+            "mainClass": "regex.two",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "one",
+            "request": "launch",
+            "mainClass": "regex.one",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "bitset1",
+            "request": "launch",
+            "mainClass": "bitset.bitset1",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "calenders",
+            "request": "launch",
+            "mainClass": "datetime.calenders",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "datetime.sample",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "stringtoken.sample",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "Buffered",
+            "request": "launch",
+            "mainClass": "Streams.Buffered",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
         {
             "type": "java",
             "name": "Attach to Remote Program",
@@ -23,13 +71,12 @@
             "mainClass": ""
         },
         {
-        "type": "java",
-        "name": "Debug (Launch)-MainClass",
-        "request": "launch",
-        "mainClass": "setinter.Demo",
-        "projectName": "MyDSAChallenge"
-        }
-
+            "type": "java",
+            "name": "Debug (Launch)-MainClass",
+            "request": "launch",
+            "mainClass": "setinter.Demo",
+            "projectName": "MyDSAChallenge"
+        },
         {
             "type": "java",
             "name": "buffered",

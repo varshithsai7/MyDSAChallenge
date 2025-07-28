@@ -1,3 +1,4 @@
+package Streams;
 import java.io.*;
 import java.util.Scanner;
 
