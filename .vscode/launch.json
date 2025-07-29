@@ -3,6 +3,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sample3",
+            "request": "launch",
+            "mainClass": "LambdaandfunInter.sample3",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "sample2",
+            "request": "launch",
+            "mainClass": "LambdaandfunInter.sample2",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "sample1",
+            "request": "launch",
+            "mainClass": "LambdaandfunInter.sample1",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "three",
+            "request": "launch",
+            "mainClass": "swing.three",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "swing2",
+            "request": "launch",
+            "mainClass": "swing.swing2",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
+            "name": "swing1",
+            "request": "launch",
+            "mainClass": "swing.swing1",
+            "projectName": "MyDSAChallenge_31f0b060"
+        },
+        {
+            "type": "java",
             "name": "two",
             "request": "launch",
             "mainClass": "regex.two",
